@@ -1,0 +1,13 @@
+.social-container{
+    gap: 20px;
+    display: flex;
+}
+
+.social-container button{
+    background-color: white;
+    border: 1px solid #fcb735;
+    border-radius: 30px;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+}
